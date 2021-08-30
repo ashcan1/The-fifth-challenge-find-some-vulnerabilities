@@ -1,0 +1,5 @@
+Learn what Nikto is and how it works
+
+Nikto is a free software command-line vulnerability scanner that scans webservers for dangerous files/CGIs,
+ outdated server software and other problems. It performs generic and server type specific checks.
+ It also captures and prints any cookies received
