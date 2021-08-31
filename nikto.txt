@@ -45,6 +45,15 @@ Chrome and Safari that stops pages from loading when they detect reflected cross
 + 7913 requests: 0 error(s) and 16 item(s) reported on remote host
 + End Time:           2021-08-30 19:15:40 (GMT1) (23 seconds)
 
+f) Start a scan job for the OWASP BWA machine in OpenVAS
+g) What results differ from Nikto? Explain them.
+
+the first thing that I noticed was UI shows more informationas than nikto for example : severity in opanvas is red when scanin owasb
+I had more results in openvas than nikto 106 vulnerability high to medium
+I have acces to report of each vulnerability
+for example : summary, detection resualt,impact and even solution 
+we can also save the report as a pdf etc.. 
+
 
 
 
