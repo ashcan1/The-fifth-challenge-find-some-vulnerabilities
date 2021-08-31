@@ -53,6 +53,13 @@ I had more results in openvas than nikto 106 vulnerability high to medium
 I have acces to report of each vulnerability
 for example : summary, detection resualt,impact and even solution 
 we can also save the report as a pdf etc.. 
+ 
+ from stackoverflow : 
+ Nikto is a web security tool which majorly looks for outdated software, dangerous files/CGI etc. Many of the modern scanners including Nessus, Openvas use Nikto to get information for their analysis (These tools have Nikto plugins).
+
+Also, there are some cases where Nikto provides too many false positives compared to other Tools. Its always good to run multiple tools to see which tool reports relevant issues for your product.
+
+Bottomline: Nikto is one of the powerful tools which can be used for reconnaissance. But should be analyzed properly before finalizing on the data reported
 
 
 
